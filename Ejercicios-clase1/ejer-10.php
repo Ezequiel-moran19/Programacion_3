@@ -19,5 +19,4 @@ foreach ($vecimpar as $numero) {
     echo $numero . "<br>";
 }
 
-
 ?>
